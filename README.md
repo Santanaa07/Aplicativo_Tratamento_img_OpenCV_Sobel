@@ -1,0 +1,1 @@
+# Aplicativo_Tratamento_img_OpenCV_Sobel
